@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaLibraryManagementSystem", "MediaLibraryManagementSystem\MediaLibraryManagementSystem.csproj", "{FC32B74D-7441-41E7-A9B3-32EC9DA210F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC32B74D-7441-41E7-A9B3-32EC9DA210F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC32B74D-7441-41E7-A9B3-32EC9DA210F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC32B74D-7441-41E7-A9B3-32EC9DA210F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC32B74D-7441-41E7-A9B3-32EC9DA210F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F231EDE7-69D5-45A8-A16A-9E1A4B963546}
+	EndGlobalSection
+EndGlobal
