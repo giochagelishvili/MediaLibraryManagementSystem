@@ -1,0 +1,20 @@
+*Inception|2010|8.8|Thriller|Christopher Nolan|English|USA|Leonardo DiCaprio,Ellen Page,Tom Hardy|18
+*The Shawshank Redemption|1994|9.3|Drama|Frank Darabont|English|USA|Tim Robbins,Morgan Freeman|15
+*The Dark Knight|2008|9.0|Action|Christopher Nolan|English|USA|Christian Bale,Heath Ledger,Gary Oldman|20
+*Pulp Fiction|1994|8.9|Crime|Quentin Tarantino|English|USA|John Travolta,Samuel L. Jackson,Uma Thurman|12
+*The Godfather|1972|9.2|Crime|Francis Ford Coppola|English|USA|Marlon Brando,Al Pacino,James Caan|22
+*Fight Club|1999|8.8|Drama|David Fincher|English|USA|Brad Pitt,Edward Norton,Helena Bonham Carter|16
+*Forrest Gump|1994|8.8|Drama|Robert Zemeckis|English|USA|Tom Hanks,Robin Wright,Gary Sinise|24
+*Avatar|2009|7.8|Action|James Cameron|English|USA|Sam Worthington,Zoe Saldana,Sigourney Weaver|13
+*The Matrix|1999|8.7|Action|The Wachowskis|English|USA|Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss|19
+*Interstellar|2014|8.6|Action|Christopher Nolan|English|USA|Matthew McConaughey,Anne Hathaway,Jessica Chastain|21
+Stranger Things|2016|8.7|Thriller|The Duffer Brothers|English|USA|Winona Ryder,David Harbour,Finn Wolfhard|25
+Breaking Bad|2008|9.5|Crime|Vince Gilligan|English|USA|Bryan Cranston,Aaron Paul,Anna Gunn|3
+Game of Thrones|2011|9.3|Action|David Benioff,D.B. Weiss|English|USA|Emilia Clarke,Kit Harington,Peter Dinklage|73
+The Mandalorian|2019|8.8|Action|Jon Favreau|English|USA|Pedro Pascal,Gina Carano,Carl Weathers|16
+Friends|1994|8.9|Comedy|David Crane,Marta Kauffman|English|USA|Jennifer Aniston,Courteney Cox,Lisa Kudrow|236
+The Simpsons|1989|8.6|Animation|Matt Groening|English|USA|Dan Castellaneta,Julie Kavner,Nancy Cartwright|731
+The Office|2005|8.9|Comedy|Greg Daniels|English|USA|Steve Carell,Rainn Wilson,John Krasinski|201
+Black Mirror|2011|8.8|Drama|Charlie Brooker|English|UK|Daniel Lapaine,Hannah John-Kamen,Michaela Coel|22
+Westworld|2016|8.6|Action|Jonathan Nolan,Lisa Joy|English|USA|Evan Rachel Wood,Thandie Newton,Jeffrey Wright|28
+The Crown|2016|8.7|Drama|Peter Morgan|English|UK|Claire Foy,Matt Smith,Olivia Colman|40

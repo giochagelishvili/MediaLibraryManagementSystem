@@ -1,0 +1,16 @@
+User input is not a number.
+   at MediaLibraryManagementSystem.Helper_Classes.Interaction.GetIntInput(Int32 maxValue) in C:\Users\user\Desktop\Github\MediaLibraryManagementSystem\MediaLibraryManagementSystem\MediaLibraryManagementSystem\Helper Classes\Interaction.cs:line 41
+2/1/2024 4:41:55 PM
+--------------------
+User input is not a number.
+   at MediaLibraryManagementSystem.Helper_Classes.Interaction.GetIntInput(Int32 maxValue, Int32 minValue) in C:\Users\user\Desktop\Github\MediaLibraryManagementSystem\MediaLibraryManagementSystem\MediaLibraryManagementSystem\Helper Classes\Interaction.cs:line 16
+2/1/2024 7:22:27 PM
+--------------------
+User input is not a number.
+   at MediaLibraryManagementSystem.Helper_Classes.Interaction.GetIntInput(Int32 maxValue, Int32 minValue) in C:\Users\user\Desktop\Github\MediaLibraryManagementSystem\MediaLibraryManagementSystem\MediaLibraryManagementSystem\Helper Classes\Interaction.cs:line 16
+2/1/2024 7:32:26 PM
+--------------------
+User input is out of bounds.
+   at MediaLibraryManagementSystem.Helper_Classes.Interaction.GetIntInput(Int32 maxValue, Int32 minValue) in C:\Users\user\Desktop\Github\MediaLibraryManagementSystem\MediaLibraryManagementSystem\MediaLibraryManagementSystem\Helper Classes\Interaction.cs:line 18
+2/1/2024 9:36:32 PM
+--------------------
